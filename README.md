@@ -10,7 +10,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkm1F3Cglty3CE1QwKQUhhg?style=social)
 [![Discord](https://img.shields.io/discord/770285988244750366?label=join%20discord&logo=Discord&logoColor=white)](https://discord.vuestorefront.io)
 
-
+### This is a fork!
+This fork only changed the packages/sdk (@vuestorefront/magento-sdk) package.
+To be able to run it on the edge, the sdk integration uses fetch instead of axios.
+Far from complete, but it suits basic needs. Everything else is untouched.
+Original readme follows:
 
 **This repository contains integration for Magento 2 and Vue Storefront Middleware.**
 This integration is framework-agnostic and may be consumed in the framework of your choice.
